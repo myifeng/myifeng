@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![myifeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=myifeng&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myifeng&layout=compact&hide=css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myifeng&layout=compact&hide=css,html)
