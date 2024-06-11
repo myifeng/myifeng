@@ -1,8 +1,7 @@
-<div align="center" >  
-<!-- GitHub 奖杯🏆 -->
-<img  src="https://github-profile-trophy.vercel.app/?username=myifeng&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&width=610&lines=coding+as+art.+keep+open+source,+enjoy+open+source." alt="Typing SVG" />
 
-<!-- GitHub 数据统计 
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=myifeng&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=myifeng&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=dark" /><br><br> -->
+<img align='left' src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200">
 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=myifeng.myifeng)
+
+<img  src="https://github-profile-trophy.vercel.app/?username=myifeng&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
